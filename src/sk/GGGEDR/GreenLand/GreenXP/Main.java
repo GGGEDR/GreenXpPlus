@@ -13,12 +13,12 @@ public class Main extends JavaPlugin {
     @Override
     public void onEnable(){
         send("Plugin bol úspešne spustený");
-        send("Developed By GGGEDR");
+        send("Developed By GGGEDR ");
     }
 
     @Override
     public void onDisable(){
         send("Plugin bol úspešne vypnutí");
-        send("Developed By GGGEDR");
+        send("Developed By GGGEDR ");
     }
 }
